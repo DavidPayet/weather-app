@@ -1,0 +1,15 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 300;
+  padding: 40px 50px;
+  height: 100vh;
+  background-image: linear-gradient(to right top, #051937, #031b40, #021e4a, #031f53, #07215c);
+}
